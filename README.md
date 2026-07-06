@@ -6,11 +6,11 @@ const airiellemariearnado: Developer = {
   education    : "BS Information Technology @ Cebu Technological University - Main Campus (2022–2026)",
   experience   : "Software Engineer Intern @ Attitech",
   stack: {
-    languages   : ["TypeScript", "JavaScript"],
+    languages   : ["JavaScript", "TypeScript", "Java"],
     frontend    : ["React", "Next.js", "Tailwind CSS", "shadcn/ui"],
     backend     : ["Node.js", "Express", "Django REST"],
     databases   : ["PostgreSQL", "MySQL", "Supabase"],
-    tools       : ["Git", "GitHub", "Vercel", "Postman", "Jira", "CI/CD"],
+    tools       : ["Git", "GitHub", "Github Actions", "Postman", "Jira", "Vercel", "Azure Fundamentals"],
   },
   currentFocus : "Revisiting software fundamentals & design principles",
 }
