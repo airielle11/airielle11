@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C70B&width=500&lines=Hi+there%2C+I'm+Airielle+Marie+Arnado!;Aspiring+Software+Engineer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7C70B&width=500&lines=Hi+there%2C+I'm+Airielle+Marie+Arnado!;Junior+Software+Engineer" alt="Typing SVG" /></a>
 
 ```ts
 const airiellemariearnado: Developer = {
